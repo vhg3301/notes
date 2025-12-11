@@ -1,0 +1,81 @@
+## Hi and welcome, this is a notes of my day studing cybersecurity to be an security analyst
+
+09 december of 2025 - Google Cybersecurity Course - Coursera
+
+the goal was:
+
+- Explore the paper of security analyst and his responsabilities
+- Connect the responsabilites to the security
+- Synthesize the proactive role of the analyst
+
+I started the task in the Cybersecurity google course of Coursera
+
+Coach:
+Great! Imagine you’ve just started as a junior security analyst. What daily tasks and responsibilities do you think you'd take on to help protect the organization's networks and data?
+
+Coach:
+Excellent! Monitoring, filtering false positives, and escalating are indeed key responsibilities. Now, let's dive a little deeper. How do these tasks of monitoring and filtering help keep the organization's systems and data secure?
+
+Coach:
+Your explanation about the importance of filtering false positives and monitoring is very clear! You highlighted how filtering optimizes time and resources, allowing you to focus on real threats, and how monitoring is essential for detecting any malicious activity. Now, let's move on to the next step. Apart from monitoring and filtering, what other responsibilities might a junior security analyst have, and how do they contribute to the overall security of the organization?
+
+Coach:
+You brought up very important points! Creating clear reports and effective communication are crucial for teamwork and security. Well-written reports ensure everyone understands the situation quickly, and communication allows the team to work cohesively to strengthen security. Now, let’s think a bit more about the proactive role of the analyst. How do these responsibilities we discussed — monitoring, filtering, reporting, and communication — come together to form a proactive approach in protecting the organization’s digital assets?
+
+Coach:
+Excellent! You summarized very well how these responsibilities interconnect to create strong defense. The sequence you described — monitor, filter, report, and communicate — is a perfect example of how the junior security analyst’s work proactively contributes to the organization’s ongoing security. You’ve demonstrated a clear understanding of the analyst’s role in protecting networks and data. Great job, you’ve covered all the topics in our session. Next, here’s your feedback.
+
+##
+## Strong points of my knowledge
+##
+
+- Clear understanding of the responsabilities of a junior security analyst: monitoring, filtering false positives, reporting and communication.
+- Connection between responsibilities for better and more efficient defense.
+
+##
+## Weak points of my knowledge 
+##
+
+- To advance, need explore specific tools and techniques used by security analysts to deepen the connection between actions and threat mitigatio
+
+What I learned in this module of the Google Cybersecurity course:
+
+- SIEM Tools: 
+Security Information and Event Management (SIEM) tools help collect, analyze, and correlate security logs to identify threats in real time.
+
+- Playbooks:
+Detailed guides for responding to security incidents, helping teams follow a standardized and efficient process during a crisis.
+
+- Network Protocol Analyzers: 
+Tools like Wireshark capture and analyze network traffic, enabling the detection of anomalies and attacks.
+
+- Linux Operating System:
+Linux is widely used in cybersecurity due to its flexibility, robustness, and ability to configure secure systems.
+ 
+- Programming Languages (Python and SQL):
+Python is essential for automation and creating security scripts, while SQL is used to query and analyze data from databases in security investigations.
+
+- Logs
+Authentication module failed due to a database connection timeout configuration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
