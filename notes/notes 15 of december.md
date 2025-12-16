@@ -1,6 +1,6 @@
 # Internal Audits - Study Notes
 
-*Notes from Google Cybersecurity Course (Day 14)*
+*Notes from Google Cybersecurity Course (Day 15)*
 
 # Common elements of internal audits
 
