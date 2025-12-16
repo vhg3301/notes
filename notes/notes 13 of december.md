@@ -1,6 +1,6 @@
 ## Cybersecurity Course - Daily notes
 
-## Date: December 12, 2025
+## Date: December 13, 2025
 ## Topics: Risks, Threats and Vulnerabilities
 
 CIA Triad -- Confidentiality, Integrity and Availability 
