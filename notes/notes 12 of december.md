@@ -1,6 +1,6 @@
 ## Hi and welcome, this is a notes of my day studing cybersecurity to be an security analyst
 
-11 december of 2025 - Google Cybersecurity Course - Coursera
+12 december of 2025 - Google Cybersecurity Course - Coursera
 
 the goal was:
 
