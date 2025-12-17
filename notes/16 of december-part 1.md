@@ -76,3 +76,9 @@ such as availability, flexibility and scalability, because threat actors are fre
 - Logs (firewall logs, network logs and server logs)
 - SIEM dashboards
 - Common SIEM tools (Splunk, Chronicle)
+
+# Why "part 1"?
+
+These notes are the third module the Google cybersecurity course
+But in the same day, i advanced and continued learning, this is why is part 1 
+
